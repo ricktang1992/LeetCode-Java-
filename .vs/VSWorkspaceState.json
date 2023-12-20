@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\1.TwoSum",
+    "\\13.RomanToInteger",
+    "\\9.PalindromeNumber"
   ],
-  "SelectedNode": "\\C:\\Users\\RickT\\Desktop\\leetcode",
+  "SelectedNode": "\\13.RomanToInteger\\Solution.java",
   "PreviewInSolutionExplorer": false
 }
